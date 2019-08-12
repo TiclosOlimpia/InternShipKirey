@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WeatherApp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="WeatherAPI" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">WB5uG9O3WxSR3KNYzGrNDCZTDM8lcYvC</Value>
+    </Setting>
+    <Setting Name="autocompleteURL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://dataservice.accuweather.com/locations/v1/cities/autocomplete?apikey={1}&amp;q={0}</Value>
+    </Setting>
+    <Setting Name="forecastURL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://dataservice.accuweather.com/forecasts/v1/daily/5day/{0}?apikey={1}&amp;metric=true</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

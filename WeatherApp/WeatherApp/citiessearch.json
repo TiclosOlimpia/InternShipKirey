@@ -1,0 +1,332 @@
+﻿[
+  {
+    "Version": 1,
+    "Key": "318251",
+    "Type": "City",
+    "Rank": 11,
+    "LocalizedName": "Istanbul",
+    "Country": {
+      "ID": "TR",
+      "LocalizedName": "Turkey"
+    },
+    "AdministrativeArea": {
+      "ID": "34",
+      "LocalizedName": "Istanbul"
+    }
+  },
+  {
+    "Version": 1,
+    "Key": "208194",
+    "Type": "City",
+    "Rank": 21,
+    "LocalizedName": "Isfahan",
+    "Country": {
+      "ID": "IR",
+      "LocalizedName": "Iran"
+    },
+    "AdministrativeArea": {
+      "ID": "04",
+      "LocalizedName": "Esfahan"
+    }
+  },
+  {
+    "Version": 1,
+    "Key": "224032",
+    "Type": "City",
+    "Rank": 21,
+    "LocalizedName": "Incheon",
+    "Country": {
+      "ID": "KR",
+      "LocalizedName": "South Korea"
+    },
+    "AdministrativeArea": {
+      "ID": "28",
+      "LocalizedName": "Incheon"
+    }
+  },
+  {
+    "Version": 1,
+    "Key": "255043",
+    "Type": "City",
+    "Rank": 21,
+    "LocalizedName": "Ibadan",
+    "Country": {
+      "ID": "NG",
+      "LocalizedName": "Nigeria"
+    },
+    "AdministrativeArea": {
+      "ID": "OY",
+      "LocalizedName": "Oyo"
+    }
+  },
+  {
+    "Version": 1,
+    "Key": "318290",
+    "Type": "City",
+    "Rank": 21,
+    "LocalizedName": "Izmir",
+    "Country": {
+      "ID": "TR",
+      "LocalizedName": "Turkey"
+    },
+    "AdministrativeArea": {
+      "ID": "35",
+      "LocalizedName": "İzmir"
+    }
+  },
+  {
+    "Version": 1,
+    "Key": "2333546",
+    "Type": "City",
+    "Rank": 25,
+    "LocalizedName": "Ili Prefecture",
+    "Country": {
+      "ID": "CN",
+      "LocalizedName": "China"
+    },
+    "AdministrativeArea": {
+      "ID": "XJ",
+      "LocalizedName": "Xinjiang"
+    }
+  },
+  {
+    "Version": 1,
+    "Key": "204411",
+    "Type": "City",
+    "Rank": 25,
+    "LocalizedName": "Indore",
+    "Country": {
+      "ID": "IN",
+      "LocalizedName": "India"
+    },
+    "AdministrativeArea": {
+      "ID": "MP",
+      "LocalizedName": "Madhya Pradesh"
+    }
+  },
+  {
+    "Version": 1,
+    "Key": "237597",
+    "Type": "City",
+    "Rank": 25,
+    "LocalizedName": "Ixtapalapa",
+    "Country": {
+      "ID": "MX",
+      "LocalizedName": "Mexico"
+    },
+    "AdministrativeArea": {
+      "ID": "CMX",
+      "LocalizedName": "México City"
+    }
+  },
+  {
+    "Version": 1,
+    "Key": "258278",
+    "Type": "City",
+    "Rank": 30,
+    "LocalizedName": "Islamabad",
+    "Country": {
+      "ID": "PK",
+      "LocalizedName": "Pakistan"
+    },
+    "AdministrativeArea": {
+      "ID": "IS",
+      "LocalizedName": "Islamabad"
+    }
+  },
+  {
+    "Version": 1,
+    "Key": "287994",
+    "Type": "City",
+    "Rank": 31,
+    "LocalizedName": "Iasi",
+    "Country": {
+      "ID": "RO",
+      "LocalizedName": "Romania"
+    },
+    "AdministrativeArea": {
+      "ID": "IS",
+      "LocalizedName": "Iași"
+    }
+  },
+  {
+    "Version": 1,
+    "Key": "277858",
+    "Type": "City",
+    "Rank": 85,
+    "LocalizedName": "Iasi",
+    "Country": {
+      "ID": "RO",
+      "LocalizedName": "Romania"
+    },
+    "AdministrativeArea": {
+      "ID": "BV",
+      "LocalizedName": "Brașov"
+    }
+  },
+  {
+    "Version": 1,
+    "Key": "279136",
+    "Type": "City",
+    "Rank": 85,
+    "LocalizedName": "Iasi-Gorj",
+    "Country": {
+      "ID": "RO",
+      "LocalizedName": "Romania"
+    },
+    "AdministrativeArea": {
+      "ID": "GJ",
+      "LocalizedName": "Gorj"
+    }
+  },
+  {
+    "Version": 1,
+    "Key": "222888",
+    "Type": "City",
+    "Rank": 11,
+    "LocalizedName": "Busan",
+    "Country": {
+      "ID": "KR",
+      "LocalizedName": "South Korea"
+    },
+    "AdministrativeArea": {
+      "ID": "26",
+      "LocalizedName": "Busan"
+    }
+  },
+  {
+    "Version": 1,
+    "Key": "7894",
+    "Type": "City",
+    "Rank": 20,
+    "LocalizedName": "Buenos Aires",
+    "Country": {
+      "ID": "AR",
+      "LocalizedName": "Argentina"
+    },
+    "AdministrativeArea": {
+      "ID": "C",
+      "LocalizedName": "Buenos Aires - Capital Federal"
+    }
+  },
+  {
+    "Version": 1,
+    "Key": "187423",
+    "Type": "City",
+    "Rank": 20,
+    "LocalizedName": "Budapest",
+    "Country": {
+      "ID": "HU",
+      "LocalizedName": "Hungary"
+    },
+    "AdministrativeArea": {
+      "ID": "BU",
+      "LocalizedName": "Budapest"
+    }
+  },
+  {
+    "Version": 1,
+    "Key": "287430",
+    "Type": "City",
+    "Rank": 20,
+    "LocalizedName": "Bucharest",
+    "Country": {
+      "ID": "RO",
+      "LocalizedName": "Romania"
+    },
+    "AdministrativeArea": {
+      "ID": "B",
+      "LocalizedName": "Bucharest"
+    }
+  },
+  {
+    "Version": 1,
+    "Key": "317350",
+    "Type": "City",
+    "Rank": 21,
+    "LocalizedName": "Bursa",
+    "Country": {
+      "ID": "TR",
+      "LocalizedName": "Turkey"
+    },
+    "AdministrativeArea": {
+      "ID": "16",
+      "LocalizedName": "Bursa"
+    }
+  },
+  {
+    "Version": 1,
+    "Key": "111453",
+    "Type": "City",
+    "Rank": 31,
+    "LocalizedName": "Bukavu",
+    "Country": {
+      "ID": "CD",
+      "LocalizedName": "Democratic Republic of the Congo"
+    },
+    "AdministrativeArea": {
+      "ID": "SK",
+      "LocalizedName": "Sud-Kivu"
+    }
+  },
+  {
+    "Version": 1,
+    "Key": "111417",
+    "Type": "City",
+    "Rank": 31,
+    "LocalizedName": "Bucaramanga",
+    "Country": {
+      "ID": "CO",
+      "LocalizedName": "Colombia"
+    },
+    "AdministrativeArea": {
+      "ID": "SAN",
+      "LocalizedName": "Santander"
+    }
+  },
+  {
+    "Version": 1,
+    "Key": "296808",
+    "Type": "City",
+    "Rank": 31,
+    "LocalizedName": "Buraidah",
+    "Country": {
+      "ID": "SA",
+      "LocalizedName": "Saudi Arabia"
+    },
+    "AdministrativeArea": {
+      "ID": "05",
+      "LocalizedName": "Al Qaşīm"
+    }
+  },
+  {
+    "Version": 1,
+    "Key": "352477",
+    "Type": "City",
+    "Rank": 31,
+    "LocalizedName": "Bulawayo",
+    "Country": {
+      "ID": "ZW",
+      "LocalizedName": "Zimbabwe"
+    },
+    "AdministrativeArea": {
+      "ID": "BU",
+      "LocalizedName": "Bulawayo"
+    }
+  },
+  {
+    "Version": 1,
+    "Key": "2330393",
+    "Type": "City",
+    "Rank": 32,
+    "LocalizedName": "Buk-gu",
+    "Country": {
+      "ID": "KR",
+      "LocalizedName": "South Korea"
+    },
+    "AdministrativeArea": {
+      "ID": "29",
+      "LocalizedName": "Gwangju"
+    }
+  }
+]

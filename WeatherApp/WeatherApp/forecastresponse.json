@@ -1,0 +1,176 @@
+{
+    "Headline": {
+      "EffectiveDate": "2019-07-08T08:00:00+03:00",
+      "EffectiveEpochDate": 1562562000,
+      "Severity": 3,
+      "Text": "Rain and thunderstorms Monday morning",
+      "Category": "thunderstorm",
+      "EndDate": "2019-07-08T14:00:00+03:00",
+      "EndEpochDate": 1562583600,
+      "MobileLink": "http://m.accuweather.com/en/ro/iasi/287994/extended-weather-forecast/287994?unit=c&lang=en-us",
+      "Link": "http://www.accuweather.com/en/ro/iasi/287994/daily-weather-forecast/287994?unit=c&lang=en-us"
+    },
+    "DailyForecasts": [
+      {
+        "Date": "2019-07-08T07:00:00+03:00",
+        "EpochDate": 1562558400,
+        "Temperature": {
+          "Minimum": {
+            "Value": 12.2,
+            "Unit": "C",
+            "UnitType": 17
+          },
+          "Maximum": {
+            "Value": 23.4,
+            "Unit": "C",
+            "UnitType": 17
+          }
+        },
+        "Day": {
+          "Icon": 13,
+          "IconPhrase": "Mostly cloudy w/ showers",
+          "HasPrecipitation": true,
+          "PrecipitationType": "Rain",
+          "PrecipitationIntensity": "Light"
+        },
+        "Night": {
+          "Icon": 35,
+          "IconPhrase": "Partly cloudy",
+          "HasPrecipitation": false
+        },
+        "Sources": [
+          "AccuWeather"
+        ],
+        "MobileLink": "http://m.accuweather.com/en/ro/iasi/287994/daily-weather-forecast/287994?day=1&unit=c&lang=en-us",
+        "Link": "http://www.accuweather.com/en/ro/iasi/287994/daily-weather-forecast/287994?day=1&unit=c&lang=en-us"
+      },
+      {
+        "Date": "2019-07-09T07:00:00+03:00",
+        "EpochDate": 1562644800,
+        "Temperature": {
+          "Minimum": {
+            "Value": 11.2,
+            "Unit": "C",
+            "UnitType": 17
+          },
+          "Maximum": {
+            "Value": 23.1,
+            "Unit": "C",
+            "UnitType": 17
+          }
+        },
+        "Day": {
+          "Icon": 17,
+          "IconPhrase": "Partly sunny w/ t-storms",
+          "HasPrecipitation": true,
+          "PrecipitationType": "Rain",
+          "PrecipitationIntensity": "Moderate"
+        },
+        "Night": {
+          "Icon": 33,
+          "IconPhrase": "Clear",
+          "HasPrecipitation": false
+        },
+        "Sources": [
+          "AccuWeather"
+        ],
+        "MobileLink": "http://m.accuweather.com/en/ro/iasi/287994/daily-weather-forecast/287994?day=2&unit=c&lang=en-us",
+        "Link": "http://www.accuweather.com/en/ro/iasi/287994/daily-weather-forecast/287994?day=2&unit=c&lang=en-us"
+      },
+      {
+        "Date": "2019-07-10T07:00:00+03:00",
+        "EpochDate": 1562731200,
+        "Temperature": {
+          "Minimum": {
+            "Value": 12.4,
+            "Unit": "C",
+            "UnitType": 17
+          },
+          "Maximum": {
+            "Value": 23,
+            "Unit": "C",
+            "UnitType": 17
+          }
+        },
+        "Day": {
+          "Icon": 4,
+          "IconPhrase": "Intermittent clouds",
+          "HasPrecipitation": false
+        },
+        "Night": {
+          "Icon": 35,
+          "IconPhrase": "Partly cloudy",
+          "HasPrecipitation": false
+        },
+        "Sources": [
+          "AccuWeather"
+        ],
+        "MobileLink": "http://m.accuweather.com/en/ro/iasi/287994/daily-weather-forecast/287994?day=3&unit=c&lang=en-us",
+        "Link": "http://www.accuweather.com/en/ro/iasi/287994/daily-weather-forecast/287994?day=3&unit=c&lang=en-us"
+      },
+      {
+        "Date": "2019-07-11T07:00:00+03:00",
+        "EpochDate": 1562817600,
+        "Temperature": {
+          "Minimum": {
+            "Value": 12,
+            "Unit": "C",
+            "UnitType": 17
+          },
+          "Maximum": {
+            "Value": 22.3,
+            "Unit": "C",
+            "UnitType": 17
+          }
+        },
+        "Day": {
+          "Icon": 17,
+          "IconPhrase": "Partly sunny w/ t-storms",
+          "HasPrecipitation": true,
+          "PrecipitationType": "Rain",
+          "PrecipitationIntensity": "Moderate"
+        },
+        "Night": {
+          "Icon": 34,
+          "IconPhrase": "Mostly clear",
+          "HasPrecipitation": false
+        },
+        "Sources": [
+          "AccuWeather"
+        ],
+        "MobileLink": "http://m.accuweather.com/en/ro/iasi/287994/daily-weather-forecast/287994?day=4&unit=c&lang=en-us",
+        "Link": "http://www.accuweather.com/en/ro/iasi/287994/daily-weather-forecast/287994?day=4&unit=c&lang=en-us"
+      },
+      {
+        "Date": "2019-07-12T07:00:00+03:00",
+        "EpochDate": 1562904000,
+        "Temperature": {
+          "Minimum": {
+            "Value": 12.9,
+            "Unit": "C",
+            "UnitType": 17
+          },
+          "Maximum": {
+            "Value": 23.4,
+            "Unit": "C",
+            "UnitType": 17
+          }
+        },
+        "Day": {
+          "Icon": 3,
+          "IconPhrase": "Partly sunny",
+          "HasPrecipitation": false
+        },
+        "Night": {
+          "Icon": 35,
+          "IconPhrase": "Partly cloudy",
+          "HasPrecipitation": false
+        },
+        "Sources": [
+          "AccuWeather"
+        ],
+        "MobileLink": "http://m.accuweather.com/en/ro/iasi/287994/daily-weather-forecast/287994?day=5&unit=c&lang=en-us",
+        "Link": "http://www.accuweather.com/en/ro/iasi/287994/daily-weather-forecast/287994?day=5&unit=c&lang=en-us"
+      }
+    ]
+  }
